@@ -1,0 +1,1 @@
+﻿package com {		import flash.display.Sprite;		public class Square extends Sprite {				public function Square() {					}				}}

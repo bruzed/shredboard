@@ -14,10 +14,10 @@ The software is an AIR application written in ActionScript 3. The sounds are pro
 4. Launch 'SuperCollider' from your 'Applications' folder
 5. Open 'shredBoard.sc' in 'SuperCollider'
 6. To run the 'shredBoard.sc' program:
-- Hit 'Enter' (NOT 'Return' this would be Fn + ) on lines 1 to 7 - 1 line at a time. If you go beyond line 7 don't worry just continue to the next step
-- When you reach '(', double-click after it to select the entire section within '(' and ')'. Hit 'Enter' (NOT 'Return') again
-7. Double-click 'shredBoardFlocServer.command' from the 'installers' directory, to startup 'flosc'. This will open up a 'Terminal' window
-8. Launch 'shredBoard' from your 'Applications' folder. If it is already open, restart it.
-9. If you hear no sound, quit 'shredBoard' and 'Terminal'. Repeat steps 7 and 8
-10. Rock out!
+7. Hit 'Enter' (NOT 'Return' this would be Fn + ) on lines 1 to 7 - 1 line at a time. If you go beyond line 7 don't worry just continue to the next step
+8. When you reach '(', double-click after it to select the entire section within '(' and ')'. Hit 'Enter' (NOT 'Return') again
+9. Double-click 'shredBoardFlocServer.command' from the 'installers' directory, to startup 'flosc'. This will open up a 'Terminal' window
+10. Launch 'shredBoard' from your 'Applications' folder. If it is already open, restart it.
+11. If you hear no sound, quit 'shredBoard' and 'Terminal'. Repeat steps 9 and 10
+12. Rock out!
 
